@@ -1,0 +1,27 @@
+.flexeur{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.divid{
+    height: max-content;
+    width: 100%;
+   
+}
+.normal{
+    background-color: blue;
+}
+.chaud{
+    background-color: orange;
+    color: white;
+}
+.dead{
+    background-color: orangered;
+    color: white;
+}
+
+.imagerie{
+    width: 10rem;
+    height: 10rem;
+}
